@@ -10,3 +10,5 @@ forgetting and inform them to take necessary action. A person's life can be save
 application. Human effort can also be decreased by this medicine remainder.
 
 THE CODE IS COMPATIBLE WITH ANDROID STUDIO APPLICATION
+
+Download the zipcode
